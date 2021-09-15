@@ -1,0 +1,23 @@
+Mehul Patel
+Homework Assignment 1
+
+The app I should create is one that gives you the cost of the part from all the major manufactures and have step by step easy to understand instructions with pictures and even have a tutorial demostrating on how to perform services like oil changes, changing tires and other repairs. I could sell a generic version of a part and even have sponsorship on the videos. AutoZone app has a great UI/UX because it is easy to navigate, and it helps you to find a part for a specific car rather than googling part to get and then trying to find that specific part in the app. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
