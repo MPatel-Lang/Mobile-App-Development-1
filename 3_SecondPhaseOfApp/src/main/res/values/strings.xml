@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">3_SecondPhaseOfApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_my_name_is_mehul_patel">Hello, My name is Mehul Patel.</string>
+    <string name="todo">TODO</string>
+    <string name="i_own_bitcoin_and_tesla_stock_my_parents_own_apple_and_microsoft_stock">I own Bitcoin, and Tesla stock. My parents own Apple and Microsoft Stock.</string>
+    <string name="my_birth_place_is_massachusetts_i_live_in_burlington_ma_i_would_like_to_continue_living_here_i_am_not_married_i_like_playing_video_games">My birth place is Massachusetts. I live in Burlington, MA. I would like to continue living here. I am not married. I like playing video games.</string>
+
+</resources>
