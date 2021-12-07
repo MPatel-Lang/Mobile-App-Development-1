@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondFragment">
+
+    <TextView
+        android:id="@+id/textview_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/button_second"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/previous"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.556"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textview_second" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="90dp"
+        android:layout_height="23dp"
+        android:text="@string/tire_change"
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="372dp"
+        android:layout_height="216dp"
+        android:text="@string/_1_find_a_flat_and_safe_place_to_change_your_tire_2_apply_the_parking_brake_and_put_car_into_park_position_3_place_a_heavy_object_in_front_and_back_tires_4_take_out_the_spare_tire_and_the_jack_5_raise_the_jack_until_it_is_supporting_the_car_6_loosen_the_nuts_by_turning_counterclockwise_7_pump_the_jack_to_lift_the_tire_off_the_ground_8_remove_the_nuts_the_rest_of_the_way_9_remove_the_tire_and_place_the_spare_tire_on_the_hub_10_tighten_the_nuts_by_hand_11_lower_the_car_without_applying_full_weight_on_the_tire_12_lower_the_car_to_the_ground_fully_and_remove_the_jack_13_put_the_old_tire_in_your_trunk_and_take_it_to_a_mechanic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="378dp"
+        android:layout_height="191dp"
+        android:src="@drawable/flat_tire"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="53dp"
+        android:contentDescription="TODO" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
